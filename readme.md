@@ -30,7 +30,7 @@ Download the models and put them in ``data/models/``.
 
 Images are assumed to be in ``data/img/``.
 
-<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/tree/master/twoStage/data/img/example.jpg" width="150">
+<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/blob/master/twoStage/data/img/example.jpg" width="150">
 
 **Style Transfer**
 
@@ -42,10 +42,10 @@ Results are saved in ``data/styleTransfer/``.
 python style_images.py
 ```
 <p align="left">
-<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/tree/master/twoStage/data/styleTransfer/example_1.png" width="150">
-<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/tree/master/twoStage/data/styleTransfer/example_3.png" width="150">
-<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/tree/master/twoStage/data/styleTransfer/example_14.png" width="150">
-<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/tree/master/twoStage/data/styleTransfer/example_23.png" width="150">
+<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/blob/master/twoStage/data/styleTransfer/example_1.png" width="150">
+<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/blob/master/twoStage/data/styleTransfer/example_3.png" width="150">
+<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/blob/master/twoStage/data/styleTransfer/example_14.png" width="150">
+<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/blob/master/twoStage/data/styleTransfer/example_23.png" width="150">
 </p>
 
 **Text Segmentation**
@@ -56,7 +56,7 @@ Results are saved in ``data/heatmaps/``.
 python get_TextFCN_heatmaps.py
 ```
 
-<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/tree/master/twoStage/data/heatmaps/example.png" width="150">
+<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/blob/master/twoStage/data/heatmaps/example.png" width="150">
 
 **Selective Text Style Transfer**
 
@@ -66,10 +66,10 @@ Results are saved in ``data/SelectivestyleTransfer/``.
 python weighted_blending.py
 ```
 <p align="left">
-<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/tree/master/twoStage/data/selectiveStyleTransfer/example_1.jpg" width="150">
-<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/tree/master/twoStage/data/selectiveStyleTransfer/example_3.jpg" width="150">
-<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/tree/master/twoStage/data/selectiveStyleTransfer/example_14.jpg" width="150">
-<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/tree/master/twoStage/data/selectiveStyleTransfer/example_23.jpg" width="150">
+<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/blob/master/twoStage/data/selectiveStyleTransfer/example_1.jpg" width="150">
+<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/blob/master/twoStage/data/selectiveStyleTransfer/example_3.jpg" width="150">
+<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/blob/master/twoStage/data/selectiveStyleTransfer/example_14.jpg" width="150">
+<img src="https://github.com/furkanbiten/SelectiveTextStyleTransfer/blob/master/twoStage/data/selectiveStyleTransfer/example_23.jpg" width="150">
 </p>
 
 ### Training
