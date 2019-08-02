@@ -20,7 +20,7 @@ from __future__ import print_function
 
 import tensorflow as tf
 
-from magenta.models.image_stylization import ops
+from magenta import ops
 
 slim = tf.contrib.slim
 

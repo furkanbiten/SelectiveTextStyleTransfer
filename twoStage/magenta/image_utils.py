@@ -27,7 +27,7 @@ import scipy
 import scipy.misc
 import tensorflow as tf
 
-from magenta.models.image_stylization import imagenet_data
+from magenta import imagenet_data
 from tensorflow.python.framework import dtypes
 from tensorflow.python.ops import random_ops
 

@@ -23,9 +23,9 @@ import os
 import numpy as np
 import tensorflow as tf
 
-from magenta.models.image_stylization import image_utils
-from magenta.models.image_stylization import model
-from magenta.models.image_stylization import ops
+from magenta import image_utils
+from magenta import model
+from magenta import ops
 
 import cv2
 import time

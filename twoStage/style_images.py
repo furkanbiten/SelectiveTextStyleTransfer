@@ -1,4 +1,4 @@
-from magenta.models.image_stylization import image_stylization_transform
+from magenta import image_stylization_transform
 from PIL import Image
 import os
 
